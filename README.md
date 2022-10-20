@@ -1,20 +1,13 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/bhNGB.gif" width="200"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
   <h1 align="center">Hi 👋, I'm UrickG29</h1>
+  <h3 align="center"> I'm a 5th semester unam student in computer engineering. I'm constantly learning, don't be surprised if you see something peculiar </h3>
+  
 </div>
-### Hi there 👋
 
-<!--
-**urickg29/urickg29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 about me
+  <p> <li> Here You can find school projects 🎒 <p>
+  <p> <li> I'm interested in frontend thecnologies and cybersecurity 💻 <p>
+  <p> <li> How to reach me: urickgarcia89@aragon.unam.mx 📧 <p>
