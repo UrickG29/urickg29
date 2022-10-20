@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://tenor.com/bhNGB.gif" width="200"/>
+  <h1 align="center">Hi 👋, I'm UrickG29</h1>
+</div>
 ### Hi there 👋
 
 <!--
