@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
   <h1 align="center">Hi 👋, I'm UrickG29</h1>
-  <h3 align="center"> I'm a 5th semester UNAM student in computer engineering. I'm constantly learning, don't be surprised if you see something peculiar </h3>
+  <h3 align="center"> I'm a 6th semester UNAM student in computer engineering. I'm constantly learning, don't be surprised if you see something peculiar </h3>
 </div>
 <div align="center">
 <a href="https://www.credly.com/badges/63010e8f-401e-4eb5-bb1e-50fc566c13f6/public_url" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/urickg29/urickg29/blob/490609f0fa26b6c5463c26c73afca82cfbc84aad/ITC.png"> 
